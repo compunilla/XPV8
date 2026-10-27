@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FOXSPORTSPREMIUM.ar@Default" tvg-logo="https://i.imgur.com/ER0ysRD.png" group-title="🇦🇷 Argentina - Deportes",FOX SPORTS PREMIUM
 http://liontv.es:8080/Nano12345/Nano12345/334402
-#EXTINF:-1 tvg-id="GENTINAlDEPORTV.ar@Default" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/DXTV2012logo.png/revision/latest/scale-to-width-down/1200?cb=20210101171037&path-prefix=es" group-title="🇦🇷 Argentina - Deportes",GENTINA l DEPORTV
+#EXTINF:-1 tvg-id="GENTINAlDEPORTV.ar@Default" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/DXTV2012logo.png/revision/latest/scale-to-width-down/1200?cb=20210101171037&path-prefix=es" group-title="🇦🇷 Argentina - Deportes",ARGENTINA l DEPORTV
 http://liontv.es:8080/Nano12345/Nano12345/334373
 #EXTINF:-1 tvg-id="TyCSportsHD.ar@Default" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="🇦🇷 Argentina - Deportes",TyC Sports HD
 http://liontv.es:8080/Nano12345/Nano12345/334271
